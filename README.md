@@ -2,7 +2,7 @@
 Election System
 The Election System is a program that allows users to manage election campaigns, register new candidates and voters, and monitor the voting process. It is a GUI-based desktop application built using Java Swing.
 
-#Features
+# Features
 The Election System has the following features:
 
 Create new elections
@@ -12,7 +12,7 @@ Allow voters to log in and vote in the election
 Monitor the voting process
 Display the results of the election
 
-#How to use
+# How to use
 To use the Election System, follow these steps:
 
 Clone or download the source code from the project repository.
@@ -21,7 +21,7 @@ Compile and run the Main class to start the application.
 From the main menu, you can choose to create a new election, add candidates to an existing election, register new voters, or log in as a voter to vote in the election.
 Once the voting period has ended, you can view the results of the election from the admin panel.
 
-#Classes
+# Classes
 The following classes are included in the Election System:
 
 Main: The entry point of the application. It creates a new instance of the MainMenu class.
@@ -32,11 +32,11 @@ Candidate: Represents a candidate in an election. It has a name, party affiliati
 Voter: Represents a voter in an election. It has a name, address, and a unique ID.
 DB: A static class that handles data storage and retrieval.
 
-#Dependencies
+# Dependencies
 The Election System depends on the following libraries:
 
 javax.swing: A Java library for creating graphical user interfaces.
 java.awt.event: A Java library for handling events.
 
-#Authors
+# Authors
 The Election System was developed by Abdelrahman Saleh as a project for syncInterns.
