@@ -1,6 +1,5 @@
 # electionSystem
-Election System
-The Election System is a program that allows users to manage election campaigns, register new candidates and voters, and monitor the voting process. It is a GUI-based desktop application built using Java Swing.
+Election System is a program that allows users to manage election campaigns, register new candidates and voters, and monitor the voting process. It is a GUI-based desktop application built using Java Swing.
 
 # Features
 The Election System has the following features:
